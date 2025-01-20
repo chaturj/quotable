@@ -1,0 +1,141 @@
+[2025-01-20 04:28:26Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-01-20 04:28:26Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:26Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:26Z INFO HostContext] Well known config file 'Credentials': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO HostContext] Well known config file 'Runner': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.runner'
+[2025-01-20 04:28:27Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2025-01-20 04:28:27Z INFO Listener] RuntimeInformation: Darwin 24.1.0 Darwin Kernel Version 24.1.0: Thu Oct 10 21:02:45 PDT 2024; root:xnu-11215.41.3~2/RELEASE_ARM64_T8112.
+[2025-01-20 04:28:27Z INFO Listener] Version: 2.321.0
+[2025-01-20 04:28:27Z INFO Listener] Commit: e249007931b7c8e857797fa259c167f0bd4f997a
+[2025-01-20 04:28:27Z INFO Listener] Culture: en-US
+[2025-01-20 04:28:27Z INFO Listener] UI Culture: en-US
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO Listener] Validating directory permissions for: '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO CommandLineParser] Parse
+[2025-01-20 04:28:27Z INFO CommandLineParser] Parsing 1 args
+[2025-01-20 04:28:27Z INFO CommandLineParser] parsing argument
+[2025-01-20 04:28:27Z INFO CommandLineParser] HasArgs: False
+[2025-01-20 04:28:27Z INFO CommandLineParser] Adding Command: run
+[2025-01-20 04:28:27Z INFO Listener] Arguments parsed
+[2025-01-20 04:28:27Z INFO Runner] ExecuteCommand
+[2025-01-20 04:28:27Z INFO ConfigurationStore] currentAssemblyLocation: /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin/Runner.Listener.dll
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO ConfigurationStore] binPath: /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO ConfigurationStore] RootFolder: /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO HostContext] Well known config file 'Runner': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.runner'
+[2025-01-20 04:28:27Z INFO ConfigurationStore] ConfigFilePath: /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.runner
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO HostContext] Well known config file 'Credentials': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials'
+[2025-01-20 04:28:27Z INFO ConfigurationStore] CredFilePath: /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO HostContext] Well known config file 'MigratedCredentials': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials_migrated'
+[2025-01-20 04:28:27Z INFO ConfigurationStore] MigratedCredFilePath: /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials_migrated
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO HostContext] Well known config file 'Service': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.service'
+[2025-01-20 04:28:27Z INFO ConfigurationStore] ServiceConfigFilePath: /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.service
+[2025-01-20 04:28:27Z INFO CommandSettings] Flag 'help': 'False'
+[2025-01-20 04:28:27Z INFO CommandSettings] Flag 'version': 'False'
+[2025-01-20 04:28:27Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-01-20 04:28:27Z INFO CommandSettings] Flag 'check': 'False'
+[2025-01-20 04:28:27Z INFO CommandSettings] Command 'configure': 'False'
+[2025-01-20 04:28:27Z INFO CommandSettings] Command 'remove': 'False'
+[2025-01-20 04:28:27Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-01-20 04:28:27Z INFO ConfigurationManager] LoadSettings
+[2025-01-20 04:28:27Z INFO ConfigurationStore] IsConfigured()
+[2025-01-20 04:28:27Z INFO ConfigurationStore] IsConfigured: True
+[2025-01-20 04:28:27Z INFO ConfigurationManager] Is configured: True
+[2025-01-20 04:28:27Z INFO ConfigurationStore] Read setting file: 286 chars
+[2025-01-20 04:28:27Z INFO ConfigurationManager] Settings Loaded
+[2025-01-20 04:28:27Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-01-20 04:28:27Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-01-20 04:28:27Z INFO CommandSettings] Command 'run': 'True'
+[2025-01-20 04:28:27Z INFO ConfigurationStore] IsConfigured()
+[2025-01-20 04:28:27Z INFO ConfigurationStore] IsConfigured: True
+[2025-01-20 04:28:27Z INFO ConfigurationManager] Is configured: True
+[2025-01-20 04:28:27Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-01-20 04:28:27Z INFO Runner] Set runner startup type - Manual
+[2025-01-20 04:28:27Z INFO CommandSettings] Flag 'once': 'False'
+[2025-01-20 04:28:27Z INFO CommandSettings] Flag 'once': 'False'
+[2025-01-20 04:28:27Z INFO Runner] RunAsync
+[2025-01-20 04:28:27Z INFO ConfigurationManager] LoadSettings
+[2025-01-20 04:28:27Z INFO ConfigurationStore] IsConfigured()
+[2025-01-20 04:28:27Z INFO ConfigurationStore] IsConfigured: True
+[2025-01-20 04:28:27Z INFO ConfigurationManager] Is configured: True
+[2025-01-20 04:28:27Z INFO ConfigurationManager] Settings Loaded
+[2025-01-20 04:28:27Z INFO MessageListener] {
+  "AgentId": 21,
+  "AgentName": "192",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/oCrQu4g5mqNp75vGCgbjeWgpfoUPd6fh62kIryFlkCxGNGiHfU/",
+  "GitHubUrl": "https://github.com/chaturj/quotable",
+  "WorkFolder": "_work"
+}
+[2025-01-20 04:28:27Z INFO MessageListener] Loading Credentials
+[2025-01-20 04:28:27Z INFO ConfigurationStore] HasCredentials()
+[2025-01-20 04:28:27Z INFO ConfigurationStore] stored True
+[2025-01-20 04:28:27Z INFO CredentialManager] GetCredentialProvider
+[2025-01-20 04:28:27Z INFO CredentialManager] Creating type OAuth
+[2025-01-20 04:28:27Z INFO CredentialManager] Creating credential type: OAuth
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Bin': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/bin'
+[2025-01-20 04:28:27Z INFO HostContext] Well known directory 'Root': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner'
+[2025-01-20 04:28:27Z INFO HostContext] Well known config file 'RSACredentials': '/Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials_rsaparams'
+[2025-01-20 04:28:27Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials_rsaparams
+[2025-01-20 04:28:27Z INFO MessageListener] Attempt to create session.
+[2025-01-20 04:28:27Z INFO MessageListener] Connecting to the Runner Server...
+[2025-01-20 04:28:27Z INFO RunnerServer] EstablishVssConnection
+[2025-01-20 04:28:27Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-01-20 04:28:27Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-20 04:28:27Z INFO RunnerServer] EstablishVssConnection
+[2025-01-20 04:28:27Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-01-20 04:28:27Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-20 04:28:27Z INFO RunnerServer] EstablishVssConnection
+[2025-01-20 04:28:27Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-01-20 04:28:27Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-20 04:28:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-20 04:28:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-20 04:28:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-20 04:28:28Z INFO MessageListener] VssConnection created
+[2025-01-20 04:28:28Z INFO Terminal] WRITE LINE: 
+[2025-01-20 04:28:28Z INFO Terminal] WRITE LINE: 
+[2025-01-20 04:28:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials_rsaparams
+[2025-01-20 04:28:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials_rsaparams
+[2025-01-20 04:28:29Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-01-20 04:28:30Z INFO MessageListener] Session created.
+[2025-01-20 04:28:30Z INFO Terminal] WRITE LINE: Current runner version: '2.321.0'
+[2025-01-20 04:28:30Z INFO Terminal] WRITE LINE: 2025-01-20 04:28:30Z: Listening for Jobs
+[2025-01-20 04:28:30Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-01-20 04:28:30Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Volumes/Projects/Chatur/Demo Application/quotes-api/actions-runner/.credentials_rsaparams
+[2025-01-20 04:28:31Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-01-20 04:36:58Z ERR  GitHubActionsService] GET request to https://pipelinesghubeus7.actions.githubusercontent.com/oCrQu4g5mqNp75vGCgbjeWgpfoUPd6fh62kIryFlkCxGNGiHfU/_apis/distributedtask/pools/1/messages?sessionId=9820dfeb-a5c1-4a75-981a-485cfcaab699&status=Online&runnerVersion=2.321.0&os=macOS&architecture=X64&disableUpdate=false failed. HTTP Status: Forbidden
+[2025-01-20 04:36:58Z ERR  MessageListener] Catch exception during get next message.
+[2025-01-20 04:36:59Z ERR  MessageListener] GitHub.DistributedTask.WebApi.AccessDeniedException: Access denied. System:ServiceIdentity;DDDDDDDD-DDDD-DDDD-DDDD-DDDDDDDDDDDD needs View permissions to perform the action.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2025-01-20 04:36:59Z INFO MessageListener] Non-retriable exception: Access denied. System:ServiceIdentity;DDDDDDDD-DDDD-DDDD-DDDD-DDDDDDDDDDDD needs View permissions to perform the action.
+[2025-01-20 04:36:59Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-01-20 04:36:59Z INFO Runner] Deleting Runner Session...
+[2025-01-20 04:36:59Z ERR  GitHubActionsService] DELETE request to https://pipelinesghubeus7.actions.githubusercontent.com/oCrQu4g5mqNp75vGCgbjeWgpfoUPd6fh62kIryFlkCxGNGiHfU/_apis/distributedtask/pools/1/sessions/9820dfeb-a5c1-4a75-981a-485cfcaab699 failed. HTTP Status: Forbidden
+[2025-01-20 04:36:59Z ERR  Terminal] WRITE ERROR: An error occurred: Access denied. System:ServiceIdentity;DDDDDDDD-DDDD-DDDD-DDDD-DDDDDDDDDDDD needs View permissions to perform the action.
+[2025-01-20 04:36:59Z ERR  Listener] GitHub.DistributedTask.WebApi.AccessDeniedException: Access denied. System:ServiceIdentity;DDDDDDDD-DDDD-DDDD-DDDD-DDDDDDDDDDDD needs View permissions to perform the action.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpMethod method, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClientBase.DeleteAgentSessionAsync(Int32 poolId, Guid sessionId, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.DeleteSessionAsync()
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)

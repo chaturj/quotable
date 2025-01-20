@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 22,
+  "agentName": "quotes",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/oCrQu4g5mqNp75vGCgbjeWgpfoUPd6fh62kIryFlkCxGNGiHfU/",
+  "gitHubUrl": "https://github.com/chaturj/quotable",
+  "workFolder": "quotes-api"
+}

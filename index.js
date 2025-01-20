@@ -32,7 +32,7 @@ app.get('/quote', async (req, res) => {
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
     // Return the quote as a JSON response
-    res.json(randomQuote);
+    res.json(quotes);
   } catch (err) {
     console.error(err);
     res.status(500).json({ error: 'Unable to fetch a quote.' });
