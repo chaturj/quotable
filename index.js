@@ -28,11 +28,31 @@ app.get('/quote', async (req, res) => {
     const data = await fs.readFile(quotesFilePath, 'utf8');
     const quotes = JSON.parse(data);
 
+    const quotesArray = quotes['Quotes']
     // Select a random quote
-    const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-
+    //const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+    const page = parseInt(req.query.page, 10) || 1;
+   const limit = parseInt(req.query.limit, 10) || 10;
+  
+    // Calculate start and end indexes
+    const startIndex = (page - 1) * limit;
+    const endIndex = page * limit;
+  
+    // Paginated items
+    const paginatedItems = quotesArray.slice(startIndex, endIndex);
+  
+    // Total pages
+    const totalPages = Math.ceil(quotesArray.length / limit);
+  
+    res.json({
+      page,
+      limit,
+      totalItems: quotesArray.length,
+      totalPages,
+      items: paginatedItems,
+    });
     // Return the quote as a JSON response
-    res.json(quotes);
+    //res.json(quotes);
   } catch (err) {
     console.error(err);
     res.status(500).json({ error: 'Unable to fetch a quote.' });
