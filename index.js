@@ -28,7 +28,7 @@ app.get('/quote', async (req, res) => {
     const data = await fs.readFile(quotesFilePath, 'utf8');
     const quotes = JSON.parse(data);
 
-    const quotesArray = quotes['Quotes']
+    const quotesArray = quotes['results']
     // Select a random quote
     //const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     const page = parseInt(req.query.page, 10) || 1;
