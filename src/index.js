@@ -1,4 +1,4 @@
-const express = require('express');
+/*const express = require('express');
 const fs = require('fs/promises');
 const path = require('path');
 const cors = require('cors');
@@ -162,3 +162,18 @@ const server = app.listen(port, () => {
 server.on('listening', () => {
   console.log('Thanks for using this API');
 });
+*/
+
+import app from './app.js'
+
+const PORT = 3000
+async function run() {
+  try {
+    app.listen(PORT, () => {
+      console.log(`Quotable is running on port: ${PORT}`)
+    })
+  } catch (error) {
+    console.error(error)
+  }
+}
+run()
